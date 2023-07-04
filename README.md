@@ -196,7 +196,7 @@ Merge your pull request so the action will be a part of the `main` branch.
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+-->U+1F60A
 
 <details id=5>
 <summary><h2>Step 5: Trigger the workflow</h2></summary>
